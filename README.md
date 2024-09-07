@@ -14,3 +14,7 @@ Instructions:
 Circuit setup with ultrasonic sensors and Arduino.
 Installation of Python and PyAutoGUI.
 How to load and run the Python and Arduino code.
+
+Code:
+The main Arduino code is located in the `guesture control.ino` file.
+The python code is located in the `Guesture control.py` file.
